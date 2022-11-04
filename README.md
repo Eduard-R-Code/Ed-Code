@@ -1,7 +1,7 @@
 <img width="1110" alt="Screenshot 2022-11-04 at 11 27 02" src="https://user-images.githubusercontent.com/90323785/199938982-beaed87c-c0f6-4a35-92d3-e7a96b486226.png">
 
 
-# Ed - Code
+# Ed-Code
 
 This is a message encryption script. 
 It will take the input text of a user and ask for a key.
